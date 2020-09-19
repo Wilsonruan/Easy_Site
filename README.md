@@ -27,7 +27,8 @@ This application can be used to POST, CREATE, and UPDATE easy_site's name with N
 1. Go to website and type "http://localhost:8080/"
 1. Enter the name and password to sign up.
 1. Click Sign in.  You can log out and login back in with password
-
+1. This should will take to the image below:
+![ScreenShot](.\public\assets\images\MainPage.jpg)
 
 ## License:
    - [ISC](https://choosealicense.com/licenses/isc/)
